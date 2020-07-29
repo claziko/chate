@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "chateo-582ab": {
+      "hosting": {
+        "app": [
+          "chateo-582ab"
+        ]
+      }
+    }
+  }
+}
